@@ -2,3 +2,5 @@ aiogram
 python-dotenv
 solana
 requests
+selenium
+webdriver-manager
